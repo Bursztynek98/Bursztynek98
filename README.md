@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Jakub 👋
+### I love creating something new and unique. I am also willing to help if I know the solution.
+------
 
-<!--
-**Bursztynek98/Bursztynek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👨‍💻 About Me**
+-----
+- Exploring new technologies.
+- Finding new solutions through play and using the test method.
+- Sleep, Eat, Play 😍
 
-Here are some ideas to get you started:
+**🛠 My experiences**
+-----
+- Windows | Linux (debian family)
+- JavaScript (Node.js) | lua
+- HTML | CSS | JavaScript | React | Vue
+- MySQL | MariaDB
+- Photoshop | Microsoft Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💕 My love Framework**
+-----
+- Styled components
+- Apollo GraphQL
+- Express.js
+- Sequelize.js
+- formik.js
+- lua love2d
+
+**🎮 Game servers I've hosted**
+-----
+- Fivem (GTA:Online priv server, script and mod)
+- Minecraft
+- Ts3
+- Unturned
+
+
+
+
