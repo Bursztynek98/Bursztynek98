@@ -11,7 +11,7 @@
 **🛠 My experiences**
 -----
 - Windows | Linux (debian family)
-- JavaScript (Node.js) | lua
+- JavaScript/TypeScript (Node.js) | lua
 - HTML | CSS | JavaScript | React | Vue
 - MySQL | MariaDB
 - Photoshop | Microsoft Office
@@ -20,6 +20,7 @@
 -----
 - Styled components
 - Apollo GraphQL
+- Prisma.js
 - Express.js
 - Sequelize.js
 - formik.js
@@ -28,6 +29,7 @@
 **🎮 Game servers I've hosted**
 -----
 - Fivem (GTA:Online priv server, script and mod)
+- Alt:V (GTA:Online priv server, script and mod)
 - Minecraft
 - Ts3
 - Unturned
